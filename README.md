@@ -1,6 +1,6 @@
 # has-pseudo-element
 
-[![Build Status](https://secure.travis-ci.org/johnotander/has-pseudo-element.png?branch=master)](https://travis-ci.org/johnotander/has-pseudo-element)
+[![Build Status](https://secure.travis-ci.org/cssstats/has-pseudo-element.png?branch=master)](https://travis-ci.org/cssstats/has-pseudo-element)
 
 Determine whether a selector contains a pseudo-element.
 
