@@ -9,7 +9,8 @@ var pseudoElements = [
   '#some-id:after',
   '#some-id::after',
   '.some-selector > ul > li:before',
-  '.some-selector > ul > li::before'
+  '.some-selector > ul > li::before',
+  'div::backdrop'
 ];
 
 var noPseudoElements = [
